@@ -1,0 +1,9 @@
+beautifulsoup4==4.5.1
+bs4==0.0.1
+pytz==2016.7
+requests==2.11.1
+
+¡¥Ω”: https://pan.baidu.com/s/1jI3dA9C √‹¬Î: 86ix
+
+
+https://github.com/luqufei456/text.git
