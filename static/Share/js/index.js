@@ -123,11 +123,11 @@ $(window).resize(function() {
 /*    BackGround
 /* ------------------------------------------------------------------ */
 $('body').vegas({
-    overlay: '/static/img/overlay.png',
+    overlay: '/static/Share/img/overlay.png',
     slides: [
-        { src: '/static/img/bannerq3.jpg' },
-        { src: '/static/img/bannerq2.jpg' },
-        { src: '/static/img/bannerq1.jpg' },
+        { src: '/static/Share/img/bannerq3.jpg' },
+        { src: '/static/Share/img/bannerq2.jpg' },
+        { src: '/static/Share/img/bannerq1.jpg' },
     ],
 })
 
